@@ -1,0 +1,19 @@
+
+
+
+
+Over the course of my second day at Grand Circus, a lot of information was covered and I felt myself becoming acclimated more and more into the Bootcamp, 
+as well as my level of comfort with the overall material becoming stronger. The most important skill that I learned and put to good use for Lab 3, was 
+how to stylize my CSS to make for more structured and organized coding. Prior to this lab, I had mistakenly made my HTML and CSS documents, one and the same.
+Another of the most valuable skills that I learned over Day 2, was that it truly is alright to ask questions when you are feeling stuck or not fully grasping
+something. Sometimes when one is introduced to a new learning enviornment, one feels uncomfortable or nervous asking questions... I am feeling more and more 
+comfortable with asking questions and admitting when something is tripping me up. Over the course of day 2, we revisited some concepts that I had been familiar
+with, which was valuable, because it not only reaffirmed what I had already known, but I was also able to gain a better understanding of certain concepts. Having
+been familiar with things such as Padding, Margin, Float, and Clear, for example, it was very handy to learn that when adding a Float to something, one must always
+apply a width to it, otherwise the results of your Float may become unpredictable. Another example, is the order in which values are added to each side of Margin or
+Padding - Top is first, Right follows, Bottom is next, and Left is the last one. Though I reaffirmed a lot of things that I'd had some knowledge of, on Day 2, 
+I learned plenty of things that I was previously unfamiliar with, such as Media Queries. Lab 3 was primarily meant to help us understand Media Queries better, which 
+allow you to adjust the content of your website to better fit various screen resolutions, so that your mobile site can look as clean and function as well as your 
+Desktop version of the site. I found that the group exercise that we did in class for Media Queries, made it much easier to understand overall and made me feel as 
+though I was getting to know, and becoming more comfortable with, my classmates and instructors. I am enjoying this Bootcamp immensely, and I am very excited to 
+continue learning and growing as a developer.
